@@ -1,6 +1,6 @@
-company_name,nasdaq,id
-Microsft,MSFT,3
-Google,GOOGL,5
-Netflix,NFLX,4
-Amazon,AMZN,1
-CISCO,CSCO,2
+company_id,ticker,name
+3,MSFT,Microsft
+5,GOOGL,Google
+1,AMZN,Amazon
+2,CSCO,Cisco
+4,NFLX,Netflix
